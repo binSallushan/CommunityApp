@@ -1,6 +1,6 @@
 # creating_assets
 
-This Flutter project is only meant to run on Windows. It will read SVG file and create required BuildingInfoJson File.
+This project is only meant to run on Windows. It will read SVG file and create required BuildingInfoJson File.
 
 ### Building Info Class
 * Building Number
