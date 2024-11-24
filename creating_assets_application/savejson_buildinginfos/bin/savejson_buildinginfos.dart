@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:savejson_buildinginfos/models/building_info.dart';
+import 'package:models/building_info.dart';
 import 'package:savejson_buildinginfos/parsers/svg_parser.dart';
 import 'package:savejson_buildinginfos/utils/io_utils.dart';
 import 'package:xml/xml.dart';

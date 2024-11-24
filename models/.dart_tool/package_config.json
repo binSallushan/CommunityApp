@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "models",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2024-11-24T15:50:59.887845Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.4",
+  "flutterRoot": "file:///C:/Android/Flutter/flutter",
+  "flutterVersion": "3.22.3",
+  "pubCache": "file:///C:/Users/muavi/AppData/Local/Pub/Cache"
+}

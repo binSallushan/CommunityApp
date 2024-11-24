@@ -1,4 +1,4 @@
-import '../models/coordinate.dart';
+import 'package:models/coordinate.dart';
 
 class DValueParser {
   static String normalizeString(String dStr) {     

@@ -1,5 +1,5 @@
-import '../models/coordinate.dart';
-import '../models/side.dart';
+import 'package:models/coordinate.dart';
+import 'package:models/side.dart';
 
 class CoordinateUtilMethods {
   

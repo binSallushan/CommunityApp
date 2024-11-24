@@ -2,6 +2,9 @@
 
 This project is only meant to run on Windows. It will read SVG file and create required BuildingInfoJson File.
 
+# Usage
+Run the `savejson_buildinginfos.dart` from the command line by supplying the path to the assets folder which must contain **Askan.svg** and **BuildingInfo.json**.
+
 ### Building Info Class
 * Building Number
 * List of *coordinates* for each *Side*.

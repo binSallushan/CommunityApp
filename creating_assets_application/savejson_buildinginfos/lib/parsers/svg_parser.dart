@@ -1,5 +1,5 @@
 import 'package:xml/xml.dart';
-import '../models/building_info.dart';
+import 'package:models/building_info.dart';
 import '../utils/coordinate_utils_methods.dart';
 import 'dvalue_parser.dart';
 

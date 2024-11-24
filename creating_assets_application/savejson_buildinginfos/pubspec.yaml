@@ -1,7 +1,8 @@
 name: savejson_buildinginfos
 description: Creating required BuildingInfo json file by reading the svg file placed in Assets folder.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+publish_to: none
+repository: https://github.com/binSallushan/CommunityApp
 
 environment:
   sdk: ^3.4.4
@@ -9,7 +10,9 @@ environment:
 # Add regular dependencies here.
 dependencies:
   xml: ^6.5.0
-  # path: ^1.8.0
+  models:
+    path: "C:/Users/muavi/source/repos/AskanCommunityApp/models"
+  
 
 dev_dependencies:
   lints: ^3.0.0
